@@ -8,7 +8,7 @@ sudo apt install nginx curl git -y
 sudo systemctl start nginx
 sudo systemctl enable nginx
 
-git clone https://github.com/muhamad-mamoun/full-stack-todo-list-app.git
+git clone https://github.com/anki2000/full-stack-todo-list-app.git
 
 cd full-stack-todo-list-app/frontend/
 
