@@ -18,7 +18,7 @@ nvm install 22
 nvm use 22
 nvm alias default 22
 
-git clone https://github.com/muhamad-mamoun/full-stack-todo-list-app.git
+git clone https://github.com/anki2000/full-stack-todo-list-app.git
 
 cd full-stack-todo-list-app/backend/
 
